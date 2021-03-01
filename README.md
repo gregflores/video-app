@@ -32,3 +32,5 @@ Give yourself a name and choose a room name and log in. You will be asked for pe
 Accept and you will see your video.
 
 If you open other windows and navigate to localhost:3000, you can join the room you created.
+
+![Alt text](./demo.png?raw=true "Title")
