@@ -6,12 +6,12 @@ To run the app you must have a Twilio account with the appropriate keys.
 
 Create a .env with the following and fill in the missing ids.
 
-TWILIO_ACCOUNT_SID=<twilio sid>
-  
-TWILIO_API_KEY=<video api key>
-  
-TWILIO_API_SECRET=<video api secret>
-  
+TWILIO_ACCOUNT_SID= \<twilio sid>
+
+TWILIO_API_KEY=\<video api key>
+
+TWILIO_API_SECRET=\<video api secret>
+
 TWILIO_CHAT_SERVICE_SID=
 
 TWILIO_TWIML_APP_SID=
@@ -33,4 +33,4 @@ Accept and you will see your video.
 
 If you open other windows and navigate to localhost:3000, you can join the room you created.
 
-![Alt text](./demo.png?raw=true "Title")
+![Alt text](./demo.png?raw=true 'Title')
